@@ -27,9 +27,10 @@
     "grunt-mocha-test": "^0.12.7",
     "mocha": "^2.3.0"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/sameera207/icndb_api/blob/master/LICENSE-MIT"
-  }]
-
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sameera207/icndb_api/blob/master/LICENSE-MIT"
+    }
+  ]
 }
